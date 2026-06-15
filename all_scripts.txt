@@ -1,0 +1,9 @@
+.read view_resource_consumption_delta.sql
+.read view_resource_consumption_hourly.sql
+.read view_resource_consumption_daily.sql
+.read table_night_water_profile.sql
+.read update_night_water_profile.sql
+.read table_electricity_profile.sql
+.read update_electricity_profile.sql
+.read view_night_leak_detect.sql
+.read view_electricity_danger_with_no_motion_detect.sql
